@@ -11,6 +11,7 @@
     "dev": "tsc-watch --onSuccess \"npm start\""
   },
   "devDependencies": {
+    "prisma": "^6.0.0",
     "tsc-watch": "^6.2.1",
     "typescript": "^5.7.2"
   },
